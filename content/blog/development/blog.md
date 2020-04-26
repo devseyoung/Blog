@@ -1,5 +1,5 @@
 ---
-title: 'Welcome Bee starter'
+title: 'Blog'
 date: 2019-2-6 16:21:13
 category: 'development'
 thumbnail: './images/hello.png'
